@@ -32,7 +32,8 @@ document.querySelector('.check').addEventListener('click', function () {
     displayMessage('🎉 Correct Number!');
     document.querySelector('.number').textContent = secretNumber;
 
-    document.querySelector('body').style.backgroundColor = '#60b347';
+    document.querySelector('body').style.background = 'rgb(0,0,0)';
+    document.querySelector('body').style.background = 'radial-gradient(circle, rgba(0,0,0,1) 22%, rgba(61,222,86,1) 62%, rgba(55,112,63,1) 87%, rgba(98,200,113,1) 97%)';
 
     document.querySelector('.number').style.width = '30rem';
 
