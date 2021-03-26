@@ -26,4 +26,4 @@ This is a task from a Javascript course on Udemy.  I'm learning but I did not co
 
 ## Contact
 
-If you want to contact me you can reach me at <paolourciullo@gmail.com>.
+If you want to contact me you can reach me at <info@paolourciullo.com>.
